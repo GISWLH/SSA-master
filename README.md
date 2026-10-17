@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![SSA-master — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # mSSA Running Example
 
 In this notebook, we showcase the core  functionalities of the **mSSA** on both Synthetic and Real world dataset
@@ -394,3 +398,7 @@ plt.legend()
 ```python
 
 ```
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
